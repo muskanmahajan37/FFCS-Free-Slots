@@ -1,0 +1,167 @@
+@import url(http://fonts.googleapis.com/css?family=Italianno|Open+Sans+Condensed:300,700,300italic);
+body {
+  background-size: cover !important;
+}
+
+.parallax {
+  width: 110%;
+  height: 110%;
+  position: relative;
+  z-index: -1;
+}
+
+#base-layer {
+  display: none;
+}
+
+#content-box {
+  position: absolute;
+  padding: 20px;
+  bottom: 295px;
+  left: 20px;
+  margin: 0 0 0 0;
+  z-index: 500;
+  width: 500px;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid whitesmoke;
+}
+#content-box h1 {
+  width: 100%;
+  display: block;
+  font-size: 3.4em;
+  font-family: 'Italianno', cursive;
+  font-weight: normal;
+  color: brown;
+  text-shadow: 2px 2px 0px #ffffff;
+  filter: dropshadow(color=#ffffff, offx=1, offy=1);
+  margin: 0;
+}
+#content-box p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.3em;
+  text-align: left;
+}
+
+.parallax-img {
+  position: fixed;
+  z-index: -1;
+}
+
+.menu-container {
+  position: absolute;
+  bottom: 141px;
+  background: rgba(160, 160, 160, 0.6);
+}
+
+ul.sdt_menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: "Myriad Pro", "Trebuchet MS", sans-serif;
+  font-size: 14px;
+  width: auto;
+}
+ul.sdt_menu a {
+  text-decoration: none;
+  outline: none;
+}
+ul.sdt_menu li {
+  float: left;
+  width: 140px;
+  height: 70px;
+  position: relative;
+  cursor: pointer;
+}
+ul.sdt_menu li > a {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 140px;
+  height: 70px;
+  z-index: 12;
+}
+ul.sdt_menu li a img {
+  border: none;
+  position: absolute;
+  width: 0px;
+  height: 0px;
+  bottom: 0px;
+  left: 70px;
+  z-index: 100;
+  -moz-box-shadow: 0px 0px 4px #000;
+  -webkit-box-shadow: 0px 0px 4px #000;
+  box-shadow: 0px 0px 4px #000;
+}
+ul.sdt_menu li span.sdt_wrap {
+  position: absolute;
+  top: 16px;
+  left: 0px;
+  width: 140px;
+  height: 49.41235px;
+  z-index: 15;
+}
+ul.sdt_menu li span.sdt_active {
+  position: absolute;
+  background: #141414;
+  top: 70px;
+  width: 140px;
+  height: 0px;
+  left: 0px;
+  z-index: 14;
+  -moz-box-shadow: 0px 0px 4px #000 inset;
+  -webkit-box-shadow: 0px 0px 4px #000 inset;
+  box-shadow: 0px 0px 4px #000 inset;
+}
+ul.sdt_menu li span.sdt_link {
+  margin-left: 15px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px rgba(20, 20, 20, 0.4);
+}
+ul.sdt_menu li span.sdt_descr,
+ul.sdt_menu li span div.sdt_box a {
+  margin-left: 15px;
+  text-transform: uppercase;
+}
+ul.sdt_menu li span.sdt_link {
+  color: #fff;
+  font-size: 20px;
+  float: left;
+  clear: both;
+}
+ul.sdt_menu li span.sdt_descr {
+  color: #0B75AF;
+  float: left;
+  clear: both;
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+ul.sdt_menu li div.sdt_box {
+  display: block;
+  position: absolute;
+  width: 140px;
+  padding-left: 15px;
+  overflow: hidden;
+  height: 140px;
+  top: 70px;
+  left: 0px;
+  display: none;
+  background: #000;
+}
+ul.sdt_menu li div.sdt_box a {
+  float: left;
+  clear: both;
+  line-height: 30px;
+  color: #0B75AF;
+}
+ul.sdt_menu li div.sdt_box a:first-child {
+  margin-top: 15px;
+}
+ul.sdt_menu li div.sdt_box a:hover {
+  color: #fff;
+}
+
+@media screen and (max-width: 1024px) {
+  .menu-container, #content-box {
+    display: none;
+  }
+}
