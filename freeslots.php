@@ -271,7 +271,7 @@ a:hover{
   <footer class="container-fluid text-center">
     <div class="row">
       <div class="col-sm-12">
-        Made with love by Himanshu Singh
+        Made with love by Vnit Shahdeo
       </div>
     </div>
   </footer>
