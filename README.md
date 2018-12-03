@@ -1,7 +1,7 @@
 # FFCS Free Slots
 ### A great way to find the free slots of members of club. 
 
-[![FFCS](https://img.shields.io/badge/FFCS-extension-blue.svg?style=for-the-badge)](https://vinitshahdeo.github.io/TodayInHistory/) [![Generic badge](https://img.shields.io/badge/numbers-api-orange.svg)](http://numberapi.com/)
+[![FFCS](https://img.shields.io/badge/FFCS-FREE&nbsp;SLOTS-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/FFCS-Free-Slots) [![CodeChef](https://img.shields.io/badge/CodeChef-VIT&nbsp;Chapter-orange.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/) 
 
 > #### Made for [CodeChef](https://www.facebook.com/codechefvituniversity/) VIT Chapter
 
@@ -14,3 +14,12 @@ The slot-based timetable, coupled with internet based Course Registration in eac
 > **This web app helps to find the free slots of members of [CodeChef](https://github.com/vinitshahdeo/CodeChefVIT) VIT Chapter.**
 
 #### Live [demo](https://vinitshahdeo.github.io/FFCS-Free-Slots/)
+
+
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/FFCS-Free-Slots.svg?style=social)](https://github.com/vinitshahdeo/FFCS-Free-Slots/blob/master/LICENSE)
+
+
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/FFCS-Free-Slots.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FFFCS-Free-Slots)
+
+
+[![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/FFCS-Free-Slots.svg?style=social)](https://github.com/vinitshahdeo/FFCS-Free-Slots/network)
