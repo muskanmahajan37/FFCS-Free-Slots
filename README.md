@@ -16,10 +16,4 @@ The slot-based timetable, coupled with internet based Course Registration in eac
 #### Live [demo](https://vinitshahdeo.github.io/FFCS-Free-Slots/)
 
 
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/FFCS-Free-Slots.svg?style=social)](https://github.com/vinitshahdeo/FFCS-Free-Slots/blob/master/LICENSE)
-
-
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/FFCS-Free-Slots.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FFFCS-Free-Slots)
-
-
-[![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/FFCS-Free-Slots.svg?style=social)](https://github.com/vinitshahdeo/FFCS-Free-Slots/network)
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/FFCS-Free-Slots.svg?style=social)](https://github.com/vinitshahdeo/FFCS-Free-Slots/blob/master/LICENSE) [![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/FFCS-Free-Slots.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FFFCS-Free-Slots) [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/FFCS-Free-Slots.svg?style=social)](https://github.com/vinitshahdeo/FFCS-Free-Slots/network)
