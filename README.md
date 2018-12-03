@@ -1,5 +1,7 @@
 # FFCS Free Slots
-### A great way to find the free slots of members of club. [Made for [CodeChef](https://www.facebook.com/codechefvituniversity/) VIT Chapter]
+### A great way to find the free slots of members of club. 
+
+> [Made for [CodeChef](https://www.facebook.com/codechefvituniversity/) VIT Chapter]
 
 ### About FFCS
 
