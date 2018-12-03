@@ -1,4 +1,4 @@
-# FFCS Free Slots
+# FFCS [Free Slots](https://vinitshahdeo.github.io/FFCS-Free-Slots/)
 ### A great way to find the free slots of members of club. 
 
 [![FFCS](https://img.shields.io/badge/FFCS-FREE&nbsp;SLOTS-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/FFCS-Free-Slots) [![CodeChef](https://img.shields.io/badge/CodeChef-VIT&nbsp;Chapter-orange.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/) 
